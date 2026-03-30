@@ -1,4 +1,6 @@
 // webpack.dev.js
+/* eslint-disable */
+
 const { merge } = require("webpack-merge");
 const common = require("./webpack.common");
 
